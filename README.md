@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi from another brain! 🧠<br>Soy Priscila / PinGuUwU 🐧</h1> 
+<h1 align="center">¡Hi from another brain! 🧠<br>Soy Priscila / PrisRedondo29 🐧</h1> 
 
 <p align="center">
    <a href="https://priscila-redondo.netlify.app/" target="_blank">
