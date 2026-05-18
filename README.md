@@ -49,6 +49,7 @@ Desarrollo Full Stack en equipo de una plataforma para conectar profesionales IT
 🎓 <b>Simulador de Plan de Estudios Universitario</b><br>
 Aplicación interactiva construida con <b>React y HeroUI</b> para visualizar y gestionar el progreso académico. Implementé un motor lógico complejo para manejar correlatividades en cascada y dependencia de estados utilizando Grafos Acíclicos Dirigidos (DAGs) y manejo de estados centralizado.
   <br>
+   🌐 Página web: <a href="https://trayectoria.codesunlu.tech/" target="_blank">Conectar-Dev</a><br>
   <b>Repositorio en construcción:</b><br>
   <a href="https://github.com/PrisRedondo29/simulador-correlativas" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
